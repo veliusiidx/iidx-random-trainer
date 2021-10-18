@@ -4,10 +4,14 @@ Start the trainer once monitor check has finished and the game is fully loaded i
 Click back in game
 
 Controls:
+
 TAB-Insert random for P1. Type with top row numbers. Press enter when finished.
+
 Q-Exits random lock/displays random for P1. Useful when you want to go back to normal game play.
 
-\-Insert random for P2.
+
+BACKSLASH-Insert random for P2.
+
 ]-Exits random lock/displays random for P2.
 
 Issues:
