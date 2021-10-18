@@ -1,5 +1,7 @@
 Instructions:
 
+-If you're using Bemanitools, rename launcher.exe to spice64.exe. Spicetool users should be perfectly fine.
+
 -Start Bistrover in Admin mode (Make sure it's the latest DJH release)
 
 -Start the trainer once monitor check has finished and the game is fully loaded in Admin mode
