@@ -14,3 +14,5 @@ Issues:
 If you select R-Random while you have locked a random, it will only rotate across the random you've locked and not nonrandom/mirror.
 
 Build instructions: Just copy and paste the code in Visual Studio or your favorite C++ compiler and that should be enough.
+
+Also this code is a dumpster fire. If anyone wants to refactor or merge changes, feel free.
