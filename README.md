@@ -4,6 +4,8 @@ Instructions:
 
 -Start Bistrover in Admin mode (Make sure it's the latest DJH release)
 
+-Make sure the game is set to FREE PLAY
+
 -Start the trainer once monitor check has finished and the game is fully loaded in Admin mode
 
 -Click back in game
